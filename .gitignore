@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Lần đầu commit: thêm backup script"
+git remote add origin <link-repo-github-của-em>
+git push -u origin main
